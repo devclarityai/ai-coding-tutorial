@@ -1,0 +1,3 @@
+# Use this file to ensure AI ignores certain files
+
+.env
